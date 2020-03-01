@@ -17,7 +17,7 @@
                BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
                BuildableName = "myapp.app"
                BlueprintName = "myapp"
-               ReferencedContainer = "container:my-app.xcodeproj">
+               ReferencedContainer = "container:testtemplaterename.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -53,7 +53,7 @@
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
             BuildableName = "myapp.app"
             BlueprintName = "myapp"
-            ReferencedContainer = "container:my-app.xcodeproj">
+            ReferencedContainer = "container:testtemplaterename.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </ProfileAction>
